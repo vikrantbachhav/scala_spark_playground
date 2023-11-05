@@ -4,7 +4,7 @@ ThisBuild / scalaVersion := "2.13.11"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "ScalaSparkPlayground"
+    name := "scala_spark_playground"
   )
 
 // https://mvnrepository.com/artifact/org.apache.spark/spark-core
